@@ -1,6 +1,6 @@
 # Proyecto de Git
 
-## Recetas:
+## Recetas
 
 ### Pasta a la carbonara:
 

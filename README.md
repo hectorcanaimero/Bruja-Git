@@ -1,4 +1,4 @@
-# Proyecto de Git
+# Proyecto de Git para enseñar a Euri
 
 ## Pasos para Commit:
 
